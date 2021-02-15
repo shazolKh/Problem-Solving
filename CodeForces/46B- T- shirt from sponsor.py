@@ -28,3 +28,4 @@ for _ in range(q):
             d[i] -= 1
             print(i)
             break
+

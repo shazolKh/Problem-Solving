@@ -11,3 +11,4 @@ for i in range(n-1):
             print((a-n) % n, end=' ')
 
     a = a+i+2
+
