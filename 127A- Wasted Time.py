@@ -12,4 +12,4 @@ for i in range(n):
 for i in range(n-1):
     r += math.sqrt(pow(li[i+1][0] - li[i][0], 2) + pow(li[i+1][1]-li[i][1], 2))
 r *= k
-print(r)
+print(r/50)
