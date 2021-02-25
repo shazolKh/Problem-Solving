@@ -1,1 +1,1 @@
-#### HackerRank and CodeForces Solve
+#### CodeForces Solution
